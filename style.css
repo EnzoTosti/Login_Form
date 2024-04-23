@@ -9,7 +9,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-image:  url(IMG_1260.jpeg) no-repeat;
+    background: url(ewan.png) no-repeat;
     background-size: cover;
 }
 
